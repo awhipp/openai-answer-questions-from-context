@@ -4,7 +4,8 @@ Short web-application that answers questions based on context and falls back to 
 
 Leverages Next.js, React, and OpenAI API.
 
-![Alt text](assets/readme_image.png?raw=true)
+![Any Questions](assets/readme_image.png?raw=true)
+![Context Driven Questions](assets/readme_image2.png?raw=true)
 
 ## Setup
 
